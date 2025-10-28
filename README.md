@@ -16,7 +16,7 @@
 
 ## 🔐 Zero Trust PKI Ecosystem
 
-GigVault is a production-grade, zero-trust Public Key Infrastructure (PKI) ecosystem built entirely in **Go 1.23**. It provides a complete Certificate Authority solution with modern security practices, Kubernetes-native deployment, and enterprise-grade features.
+GigVault is a **Zero Trust PKI Ecosystem** built entirely in **Go 1.23**. It provides a complete Certificate Authority solution with modern security practices, Kubernetes-native deployment, and enterprise-grade features.
 
 ## 🌟 Key Highlights
 

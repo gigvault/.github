@@ -1,4 +1,4 @@
-# 🔐 GigVault - Next-Generation PKI Ecosystem
+# 🔐 GigVault - Zero Trust PKI Ecosystem
 
 A complete, production-grade Certificate Authority platform built in Go 1.23, deployable on Kubernetes.
 

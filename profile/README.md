@@ -4,7 +4,7 @@ A complete, production-grade Certificate Authority platform built in Go 1.23, de
 
 ## 🌟 Overview
 
-GigVault is a microservices-based PKI ecosystem featuring:
+GigVault is an **Enterprise Zero Trust PKI Ecosystem** featuring:
 
 - ✅ **17 Services** - Fully modular architecture
 - 🔒 **ECDSA-First** - P-256/P-384 for modern cryptography
